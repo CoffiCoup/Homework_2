@@ -1,0 +1,13 @@
+Prithee
+
+PROPERTIES
+==========
+-sonnet:String {readOnly}
+-sonnetWords:String[] {readOnly}
+-maxWords:int {readOnly}
+
+METHODS
+=======
++runRound(Scanner scanner, Random random) : boolean
+-printSonnetUntil(int wordIndex) : void
+-askPrithee(int wordIndex, Scanner scanner) : boolean

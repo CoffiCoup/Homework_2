@@ -1,0 +1,10 @@
+Main
+
+PROPERTIES
+==========
+-wins:int {static}
+-losses:int {static}
+
+METHODS
+=======
++main() : void
